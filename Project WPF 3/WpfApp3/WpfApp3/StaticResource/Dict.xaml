@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfApp3.StaticResource">
+    <BitmapImage x:Key="Info" UriSource="pack://application:,,,/StaticResource/Image/info.jpg"/>
+    <BitmapImage x:Key="Clean" UriSource="pack://application:,,,/StaticResource/Image/clean.png"/>
+    <BitmapImage x:Key="Del" UriSource="pack://application:,,,/StaticResource/Image/cross.png"/>
+    <BitmapImage x:Key="Load" UriSource="pack://application:,,,/StaticResource/Image/load.png"/>
+</ResourceDictionary>
+    
